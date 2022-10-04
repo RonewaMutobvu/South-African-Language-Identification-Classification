@@ -11,4 +11,4 @@ With such a multilingual population, it is only obvious that our systems and dev
 
 In this challenge, you will take text which is in any of South Africa's 11 Official languages and identify which language the text is in. This is an example of NLP's Language Identification, the task of determining the natural language that a piece of text is written in.
 
-RESULTS 
+The dataset used for this challenge is the NCHLT Text Corpora collected by the South African Department of Arts and Culture & Centre for Text Technology (CTexT, North-West University, South Africa). The data is in the form of Language ID, and Text. The text is in various states of cleanliness.
